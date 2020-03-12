@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="inClassAppPractice1.Views.PageB">
+    <ContentPage.Content>
+        <StackLayout Padding="0,100">
+
+            <Slider HorizontalOptions="Fill"
+                    x:Name="slider"
+                    ValueChanged="slider_ValueChanged"
+                    DragStarted="slider_DragStarted"
+                    Maximum="360"
+                    Minimum="0"
+                    MinimumHeightRequest="-1"
+                    MaximumTrackColor="#062C16"
+                    MinimumTrackColor="#FF0000"
+                    MinimumWidthRequest="-1" Scale="1"
+                    Margin="20,0,20,75"/>
+
+            <Label x:Name="textLabel"
+                   TextColor="Black"
+                   HorizontalOptions="Center"
+                   Text="Hello World"
+                   Margin="0,0,0,100"/>
+            <BoxView x:Name='box'
+                     HorizontalOptions="Fill"
+                     BackgroundColor="DodgerBlue"
+                     Margin="50,0"
+                     MinimumHeightRequest="-1"
+                     HeightRequest="275"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

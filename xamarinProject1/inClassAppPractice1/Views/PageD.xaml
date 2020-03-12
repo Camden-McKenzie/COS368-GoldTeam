@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="inClassAppPractice1.Views.PageD">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+        <ActivityIndicator Color="#FF0000" IsRunning="True" Margin="0,50,0,0" />
+        <ActivityIndicator Color="Green" IsRunning="True" Margin="0,20,0,0" />
+            <StackLayout Orientation="Horizontal" Margin="110,75,0,0">
+                 <CheckBox/>
+                 <Label Text="Image Safari!" Margin="0,6,0,0"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Margin="110,0,0,0">
+                 <CheckBox/>
+                 <Label Text="Fun Party!" Margin="0,6,0,0"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Margin="110,0,0,0">
+                 <CheckBox/>
+                 <Label Text="Page B" Margin="0,6,0,0"/>
+            </StackLayout>
+            <Button Text="Adventure" Margin="25,200,25,25" VerticalOptions="FillAndExpand"/>
+         </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

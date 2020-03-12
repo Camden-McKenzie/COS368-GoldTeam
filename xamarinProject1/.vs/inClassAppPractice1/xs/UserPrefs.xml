@@ -1,0 +1,67 @@
+﻿<Properties StartupConfiguration="{E6D5DB88-DAEA-4943-9AC8-A82449259585}|Default">
+  <MonoDevelop.Ide.ItemProperties.inClassAppPractice1.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_3a_xl_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="inClassAppPractice1/Views/LoginPage.xaml">
+    <Files>
+      <File FileName="inClassAppPractice1/Views/AboutPage.xaml" Line="14" Column="30" />
+      <File FileName="inClassAppPractice1/Views/NewItemPage.xaml" />
+      <File FileName="inClassAppPractice1/Views/MainPage.xaml" />
+      <File FileName="inClassAppPractice1/Views/MyPage.cs" />
+      <File FileName="inClassAppPractice1/Views/MyPage.xaml" />
+      <File FileName="inClassAppPractice1/Views/MyPage.xaml.cs" />
+      <File FileName="inClassAppPractice1/App.xaml" />
+      <File FileName="inClassAppPractice1/Views/ItemDetailPage.xaml" />
+      <File FileName="inClassAppPractice1/AssemblyInfo.cs" />
+      <File FileName="inClassAppPractice1/Views/LoginPage.xaml" Line="1" Column="1" />
+      <File FileName="inClassAppPractice1/Views/LoginPage.xaml.cs" />
+      <File FileName="inClassAppPractice1/Views/ManorPage.xaml" />
+      <File FileName="inClassAppPractice1/Views/ManorPage.xaml.cs" />
+      <File FileName="inClassAppPractice1/Views/MainPage.xaml.cs" />
+      <File FileName="inClassAppPractice1/Views/ItemDetailPage.xaml.cs" />
+      <File FileName="inClassAppPractice1/Views/PageA.xaml" />
+      <File FileName="inClassAppPractice1/Views/PageA.xaml.cs" />
+      <File FileName="inClassAppPractice1/Views/PageB.xaml" />
+      <File FileName="inClassAppPractice1/Views/PageB.xaml.cs" />
+      <File FileName="inClassAppPractice1/Views/PageC.xaml" />
+      <File FileName="inClassAppPractice1/Views/PageC.xaml.cs" />
+      <File FileName="inClassAppPractice1/Views/PageD.xaml" />
+      <File FileName="inClassAppPractice1/Views/PageD.xaml.cs" />
+      <File FileName="inClassAppPractice1/App.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="inClassAppPractice1" expanded="True">
+            <Node name="inClassAppPractice1" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="LoginPage.xaml" expanded="True" selected="True" />
+                <Node name="MainPage.xaml" expanded="True" />
+                <Node name="ManorPage.xaml" expanded="True" />
+                <Node name="PageA.xaml" expanded="True" />
+                <Node name="PageB.xaml" expanded="True" />
+                <Node name="PageC.xaml" expanded="True" />
+                <Node name="PageD.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="inClassAppPractice1.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="inClassAppPractice1.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
